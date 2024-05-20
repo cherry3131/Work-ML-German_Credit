@@ -1,4 +1,4 @@
-**ipynb檔案有時無法正常顯示** 
+**GitHub ipynb檔案有時無法正常顯示** 
 
 1.讀取檔案
 <img src="https://github.com/cherry3131/Work-ML-IRIS/assets/140130666/16cd53cb-8ce6-481b-a2a2-971de9ba3c7f" alt="image" style="max-width: 100%; height: auto;">
